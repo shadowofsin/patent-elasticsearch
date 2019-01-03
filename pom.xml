@@ -28,6 +28,7 @@
 
   <dependencies>
 
+    <!--es客户端-->
     <dependency>
       <groupId>io.searchbox</groupId>
       <artifactId>jest</artifactId>
